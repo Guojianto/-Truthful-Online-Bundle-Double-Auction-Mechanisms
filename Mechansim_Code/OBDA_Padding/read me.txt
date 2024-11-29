@@ -1,0 +1,6 @@
+“OBDA_padding_main”is a scripting program used to perform numerical experiments under the OBDA-padding mechanism.
+“PricingAllocationRlue”is a function of payment and allocation rule under the OBDA-padding mechanism.
+“StaticPricingMethod_Gurobi”is a function of per-determined pricing rule by call Gurobi uner the OBDA-padding mechanism.
+“AdmissionRule”is a function of admission rule uner the OBDA-padding mechanism.
+“SurvivalRule”is a function of survival rule uner the OBDA-padding mechanism.
+“MaxSocialWelfare_MultiDemand_Gurobi”is a function to find the ex-post maxium social welfare by calling gurobi in the case with munlti-unit demand.
